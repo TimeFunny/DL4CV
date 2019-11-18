@@ -13,44 +13,41 @@
 ## 3. Architecture
 1. [CNN](./CNN/readme.md)
 2. [RNN](./RNN/readme.md)
-
-## 4. [edge](./ModelCompression/readme.md)
-
-1. Software Tool(neural network compression)
-2. Mobile Inference
-
-## 5. [Object Detection](./Detection/readme.md)
+3. [Mobile Edge](./ModelCompression/readme.md)
 
 
-## 6. [Image Segmentation](./Segmentation/readme.md)
+## 4. [Object Detection](./Detection/readme.md)
 
 
-## 7. [Object Tracking](./Tracking/readme.md)
+## 5. [Image Segmentation](./Segmentation/readme.md)
 
 
-## 8. [Face Tasks](./Face/readme.md)
+## 6. [Object Tracking](./Tracking/readme.md)
 
 
-## 9. [Person Pose](./Pose/readme.md)
+## 7. [Face Tasks](./Face/readme.md)
 
 
-## 10. [Pedestrian](./Pedestrian/readme.md)
+## 8. [Person Pose](./Pose/readme.md)
 
 
-## 11. [OCR](./OCR/readme.md)
+## 9. [Pedestrian](./Pedestrian/readme.md)
 
 
-## 12. [GAN](./GAN/readme.md)
+## 10. [OCR](./OCR/readme.md)
 
-## 13. [Resource：Tools and Repository](./Resource/readme.md)
+
+## 11. [GAN](./GAN/readme.md)
+
+## 12. [Resource：Tools and Repository](./Resource/readme.md)
 1. Image Annotation Tools
 2. Open Source CV Repository 
 
 3. Websites
-## 14. [Image Stylization](./Stylization/readme.md)
+## 13. [Image Stylization](./Stylization/readme.md)
 
 
-## 15. [Image Captions](./Captions/readme.md)
+## 14. [Image Captions](./Captions/readme.md)
 
 
 <!--

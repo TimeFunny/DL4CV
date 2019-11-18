@@ -7,23 +7,33 @@
 ### 1. Dataset
 
 1. LVIS - A Dataset for Large Vocabulary Instance Segmentation(2019.08)
+
 2. COCO-Stuff: Thing and Stuff Classes in Context(uncountable)
+
 3. Microsoft COCO: Common Objects in Context
+
 4. The PASCAL Visual Object Classes (VOC) Challenge
-5. The ApolloScape Open Dataset for Autonomous Driving and its Application(2018.03)
+
+
+
+####　Driving  Video Database 
+
+   1. [A Diverse Driving Video Database with Scalable Annotation Tooling(2018.05)](https://bdd-data.berkeley.edu/)
+   2. [The ApolloScape Open Dataset for Autonomous Driving and its Application(2018.03)](http://apolloscape.auto/#)
+   3. [The Cityscapes Dataset for Semantic Urban Scene Understanding(2016.04)](https://www.cityscapes-dataset.com/)
+   4. [ 1 Year, 1000km: The Oxford RobotCar Dataset (2016)](https://robotcar-dataset.robots.ox.ac.uk/)
 
 ### 2. Semantic segmentation
 
-1. Fast Panoptic Segmentation Network
-2. Improving Semantic Segmentation via Video Propagation and Label Relaxation(2018.12)
-3. ICNet for Real-Time Semantic Segmentation on High-Resolution Images(ECCV2018)
-4. CCNet: Criss-Cross Attention for Semantic Segmentation(2018.11)
-5. **DANet**: Dual Attention Network for Scene Segmentation(2018.09)
-6. Pyramid Attention Network for Semantic Segmentation(2018.05)
-7. **EncNet**:Context Encoding for Semantic Segmentation(2018.03)
-8. Loss Max-Pooling for Semantic Image Segmentation(2017.04)
-9. Understanding Convolution for Semantic Segmentation(2017.02)
-10. Multi-Scale Context Aggregation by Dilated Convolutions(2015.11)
+1. Improving Semantic Segmentation via Video Propagation and Label Relaxation(2018.12)
+2. ICNet for Real-Time Semantic Segmentation on High-Resolution Images(ECCV2018)
+3. CCNet: Criss-Cross Attention for Semantic Segmentation(2018.11)
+4. **DANet**: Dual Attention Network for Scene Segmentation(2018.09)
+5. Pyramid Attention Network for Semantic Segmentation(2018.05)
+6. **EncNet**:Context Encoding for Semantic Segmentation(2018.03)
+7. Loss Max-Pooling for Semantic Image Segmentation(2017.04)
+8. Understanding Convolution for Semantic Segmentation(2017.02)
+9. Multi-Scale Context Aggregation by Dilated Convolutions(2015.11)
 
 ---
 #### PSPNet
@@ -46,10 +56,9 @@
 
 #### Conditional Random Fields
 
-1. Convolutional CRFs for Semantic Segmentation(2018.05)
-2. Conditional Random Fields Meet Deep Neural Networks for Semantic Segmentation
-3. Conditional Random Fields as Recurrent Neural Networks(2015)
-4. Conditional Random Field and Deep Feature Learning for Hyperspectral Image Segmentation(2017.11)   
+1. Conditional Random Fields Meet Deep Neural Networks for Semantic Segmentation
+2. Conditional Random Fields as Recurrent Neural Networks(2015)
+3. Conditional Random Field and Deep Feature Learning for Hyperspectral Image Segmentation(2017.11)   
 
 ### 3. Instance segmentation
 
@@ -62,7 +71,7 @@
 7. Learning to Segment Every Thing(2017.11)
 8. Semantic Instance Segmentation with a Discriminative Loss Function(2017.08)
 9. Pixelwise Instance Segmentation with a Dynamically Instantiated Network(2017.04)
-10. Mask R-CNN
+10. **Mask R-CNN**
 11. Fully Convolutional Instance-aware Semantic Segmentation(2016.11)
 12. Instance-aware Semantic Segmentation via Multi-task Network Cascades(2015.12)
 13. depth-aware object instance segmentation (2015.12)
@@ -71,6 +80,10 @@
 ### 4. Panoptic Segmentation
 1. Panoptic Segmentation(Survey)  (2018.01)
 2. Panoptic Feature Pyramid Networks(2019.01)
+3.  UPSNet: A Unified Panoptic Segmentation Network (2019.01)
+4.  Single  Network  Panoptic  Segmentation  for  Street  Scene  Understanding (2019.02)
+5.  Fast Panoptic Segmentation Network (2019.10)
+6.  Single-Shot Panoptic Segmentation (2019.11)
 
 ### 5. 3D
 1. Segmenting Unknown 3D Objects from Real Depth Images using Mask R-CNN Trained on Synthetic Point Clouds(2018.09)

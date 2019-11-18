@@ -1,12 +1,22 @@
 # Resource
 
 ## 1. Image Annotation Tools(欢迎提供相关资料)
+
+## Software
+
 1. [Visual Object Tagging Tool](https://github.com/Microsoft/VoTT)
 2. [Computer Vision Annotation Tool](https://github.com/opencv/cvat/)
 3. [Mask Editor an Image Annotation Tool for Image Segmentation Tasks(2018.09)](https://github.com/Chuanhai/Mask-Editor)
-4. A Diverse Driving Video Database with Scalable Annotation Tooling
-5. Fluid Annotation A Human-Machine Collaboration Interfac for Full Image Annotation
-6.  LableMe, LableImg
+4. LableMe, LableImg
+
+
+
+## Paper
+
+2. Fluid Annotation A Human-Machine Collaboration Interfac for Full Image Annotation (2018)
+3. Panoptic Image Annotation with a Collaborative Assistant (2019.06)
+
+
 
 ## 2. Open Source CV Repository 
 1. [GluonCV(Mxnet)](https://gluon-cv.mxnet.io/model_zoo/classification.html)
