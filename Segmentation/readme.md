@@ -48,11 +48,15 @@
 
 ---
 #### DeepLab
+
+[Personal Home Page](http://liangchiehchen.com/)
+
 1. Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs(2014)
 2. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs(2016.06)](http://liangchiehchen.com/projects/DeepLab.html)
 3. DeepLab v3: Rethinking Atrous Convolution for Semantic Image Segmentation(2017.06)
 4. DeepLab V3+: [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(2018.02)](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 5. DeeperLab: Single-Shot Image Parser(2019.02)
+6. Panoptic-DeepLab(2019.10)
 
 #### Conditional Random Fields
 

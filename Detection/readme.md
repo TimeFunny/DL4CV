@@ -37,6 +37,7 @@
 ### data  augmentation
 
 1. Learning Data Augmentation Strategies for Object Detection(2019.06)
+2. RandAugment: Practical automated data augmentation with a reduced search space(2019.09)
 
 ### small object
 

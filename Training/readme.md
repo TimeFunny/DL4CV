@@ -1,3 +1,5 @@
+[TOC]
+
 # Training 
 
 ## 1. tricks
@@ -5,6 +7,14 @@
 2. Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour(2017)
 3. **Bag of Tricks for Image Classification with Convolutional Neural Networks(2018.12)**
 4. **Bag of Freebies for Training Object Detection Neural Networks(2019.02)**
+
+### Semi-supervised
+
+1. Self-training with Noisy Student improves ImageNet classification(2019.11)
+
+### Unsupervised
+
+1. **MoCo**: Momentum Contrast for Unsupervised Visual Representation Learning(2019.11)
 
 
 ## 2. Learning rate decay
