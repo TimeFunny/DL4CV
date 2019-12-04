@@ -8,7 +8,8 @@
 
 ## 1. 2D detection
 
-1. **YOLO Nano**: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection(2019.10)
+1. **EfficientDet**: Scalable and Efficient Object Detection(2019.11)
+2. **YOLO Nano**: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection(2019.10)
 2. CBNet: A Novel Composite Backbone Network Architecture for Object Detection(2019.09)
 3. Objects as Points(2019.04)[code](https://github.com/xingyizhou/CenterNet)
 4. FCOS: Fully Convolutional One-Stage Object Detection(2019.04)
@@ -21,7 +22,7 @@
 11. **CFENet**: An Accurate and Efficient Single-Shot Object Detector for Autonomous Driving(2018.06)
 12. Object detection at 200 Frames Per Second(2018.05)
 13. **SNIPER**: Efficient Multi-Scale Training(2018.05)[code](https://github.com/mahyarnajibi/SNIPER)
-14. **RefineDet**:Single-Shot Refinement Neural Network for Object Detection(cvpr2018)
+14. **RefineDet**: Single-Shot Refinement Neural Network for Object Detection(cvpr2018)
 15. **Pelee**: A Real-Time Object Detection System on Mobile Devices(2018.04)
 16. **DetNet**: A Backbone network for Object Detection(2018.04))
 17. **Cascade R-CNN**: Delving into High Quality Object Detection(2017.12)
