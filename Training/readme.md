@@ -16,6 +16,8 @@
 
 1. **MoCo**: Momentum Contrast for Unsupervised Visual Representation Learning(2019.11)
 
+### Augmentation
+1. AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty(2019.12)
 
 ## 2. Learning rate decay
 1. SGDR: Stochastic Gradient Descent with Warm Restarts(cosine schedule)

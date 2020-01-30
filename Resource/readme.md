@@ -24,6 +24,7 @@
 2. [Models(tf)](https://github.com/tensorflow/models/tree/master/research/object_detection)
 3. [mmdetection(Pytorch)](https://github.com/open-mmlab/mmdetection)
 4. [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+5. [ClassyVision](https://github.com/facebookresearch/ClassyVision) image and video classification
 
 ## 3. Website
 

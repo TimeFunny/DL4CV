@@ -29,10 +29,11 @@
 14. **SENet**: Squeeze-and-Excitation Networks
 
 ---
-1. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019.05) [code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
-2. Making Convolutional Networks **Shift-Invariant** Again(2019.04)[code](https://github.com/adobe/antialiased-cnns)
-3. OctConv: Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution(2019.04)[code](https://github.com/facebookresearch/OctConv)
-4. DSConv: Efficient Convolution Operator(2019.01)
+1. Fast Sparse ConvNets(2019.11S)
+2. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019.05) [code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+3. Making Convolutional Networks **Shift-Invariant** Again(2019.04)[code](https://github.com/adobe/antialiased-cnns)
+4. OctConv: Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution(2019.04)[code](https://github.com/facebookresearch/OctConv)
+5. DSConv: Efficient Convolution Operator(2019.01)
 6. An intriguing failing of convolutional neural networks and the CoordConv solution(2018.07)
 7. Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net(2018.07)
 8. SkipNet: Learning Dynamic Routing in Convolutional Networks(2017.11)
@@ -41,6 +42,10 @@
 11. AttentionNet: Residual Attention Network for Image Classification(2017.04) [code](https://github.com/fwang91/residual-attention-network)
 12. Deformable Convolutional Networks(2017.03)
 13. Spatial Transformer Networks(2015.06)
+
+### fine-grained 
+
+1. Learning Deep Bilinear Transformation for Fine-grained Image Representation(2019.11)
 
 ---
 ### 移动端
